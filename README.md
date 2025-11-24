@@ -1,2 +1,3 @@
-# ola-mundo
-aprendendo repositorio github
+# olá,mundo!
+meu primeiro repositorio de git github
+aprendendo na aula em video
